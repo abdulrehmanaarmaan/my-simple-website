@@ -1,5 +1,5 @@
 div {color:brown; background-color:blue}
 
-p {font-size: 60px}
+p {font-size: 60p; border: solid 60px greenyellow}
 
 input {font-style: italic; font-size: 50px;}
